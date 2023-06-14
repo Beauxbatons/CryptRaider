@@ -9,13 +9,13 @@
 				"CryptRaider",
 				"Win64",
 				"Debug",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 				"CryptRaider",
 				"Win64",
 				"Debug",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -35,7 +35,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -46,13 +46,13 @@
 				"CryptRaider",
 				"Win64",
 				"Debug",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -63,13 +63,13 @@
 				"CryptRaider",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -80,7 +80,7 @@
 				"CryptRaider",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -89,7 +89,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -100,13 +100,13 @@
 				"CryptRaider",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -117,13 +117,13 @@
 				"CryptRaider",
 				"Win64",
 				"Development",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -134,7 +134,7 @@
 				"CryptRaider",
 				"Win64",
 				"Development",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -143,7 +143,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -154,13 +154,13 @@
 				"CryptRaider",
 				"Win64",
 				"Development",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -171,13 +171,13 @@
 				"CryptRaider",
 				"Win64",
 				"Test",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -188,7 +188,7 @@
 				"CryptRaider",
 				"Win64",
 				"Test",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -197,7 +197,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -208,13 +208,13 @@
 				"CryptRaider",
 				"Win64",
 				"Test",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -225,13 +225,13 @@
 				"CryptRaider",
 				"Win64",
 				"Shipping",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -242,7 +242,7 @@
 				"CryptRaider",
 				"Win64",
 				"Shipping",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -251,7 +251,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -262,13 +262,13 @@
 				"CryptRaider",
 				"Win64",
 				"Shipping",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -279,13 +279,13 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"Debug",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -296,7 +296,7 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"Debug",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -305,7 +305,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -316,13 +316,13 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"Debug",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -333,13 +333,13 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -350,7 +350,7 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -359,7 +359,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -370,13 +370,13 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"DebugGame",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -387,13 +387,13 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"Development",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -404,7 +404,7 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"Development",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
@@ -413,7 +413,7 @@
 			],
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		},
 		{
@@ -424,13 +424,13 @@
 				"CryptRaiderEditor",
 				"Win64",
 				"Development",
-				"C:\\Users\\kerem\\Documents\\Unreal Projects\\CryptRaider\\CryptRaider\\CryptRaider.uproject",
+				"C:\\Users\\cetin\\OneDrive\\Belgeler\\Unreal Projects\\CryptRaider\\CryptRaider.uproject",
 				"-waitmutex"
 			],
 			"problemMatcher": "$msCompile",
 			"type": "shell",
 			"options": {
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.0"
+				"cwd": "D:\\UE_5.0"
 			}
 		}
 	]
